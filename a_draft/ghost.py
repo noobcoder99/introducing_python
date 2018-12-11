@@ -1,1 +1,1 @@
-print("ghost")
+print("ghost2")
