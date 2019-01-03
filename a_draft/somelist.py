@@ -1,5 +1,5 @@
-some_list = []
+some_list =[]
 if some_list:
-    print("There is something in here")
+    print("Here")
 else:
-    print("hey its empty!")
+    print("empty")
