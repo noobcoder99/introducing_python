@@ -1,2 +1,8 @@
-for i in range(0,9):
-    print(i)
+some_list = []
+if some_list:
+    print("Theres something in here")
+else:
+    print("Hey, its empty!")
+    
+        
+
